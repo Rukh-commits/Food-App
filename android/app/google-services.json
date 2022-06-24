@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642790762431",
+    "project_id": "nutracal-7efd5",
+    "storage_bucket": "nutracal-7efd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642790762431:android:f28d57e080d39a6336a30a",
+        "android_client_info": {
+          "package_name": "com.nutracal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642790762431-lkpk913neefn2nmkdus51t6vskcnsq8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5qmgnV1DVMdZgkcpDexgVvNudXInUS-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642790762431-lkpk913neefn2nmkdus51t6vskcnsq8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
